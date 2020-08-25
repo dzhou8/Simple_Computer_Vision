@@ -9,10 +9,15 @@ To run, simply open the .ipynb (either with Google Colaboratory or Jupyter noteb
 The model weights and datasets themselves are not in the repo because they exceed Github file size. However, the .ipynb interactive notebooks will generate them!
 
 
+
 Results:
+
 MNIST
+
+![MNIST](screenshots/MNIST.png)
 
 
 CIFAR10
-        
+
+![CIFAR10](screenshots/CIFAR10.png)
   
